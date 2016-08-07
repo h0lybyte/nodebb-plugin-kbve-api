@@ -1,4 +1,4 @@
-# NodeBB: API
+# NodeBB: API Suh
 
 Additional API methods. This plugin depends on write-api plugin.
 
